@@ -1,3 +1,3 @@
 #!/bin/bash -e
 
-docker build -t dowster:kafka_server .
+docker build -t dowster/kafka_server .
